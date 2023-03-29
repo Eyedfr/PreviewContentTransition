@@ -10,7 +10,7 @@
 
 body {
 	margin: 0;
-	--color-text: #000;
+	--color-text: #ffffff;
 	--color-bg: #bec5bd;
 	--color-link: #d02c0d;
 	--color-link-hover: #000;
@@ -187,7 +187,7 @@ main {
 
 .heading > span:nth-child(2) {
 	margin-top: -2vw;
-	text-transform: lowercase;
+
 }
 
 .item {
@@ -333,7 +333,7 @@ main {
 }
 
 .content__text img {
-	max-width: 50%;
+	max-width: 100%;
 	margin: 5rem auto;
 	display: block;
 	border-radius: 50%;
